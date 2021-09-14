@@ -1,0 +1,27 @@
+// book my show planning 
+    //    ---->>>we need a reusable carousel.
+                    // a hero carousel
+                    // a common carousel
+                    //    cast and crew carousel
+
+//    pages
+    //   home page
+        movie page
+        categories page
+        auth page
+        razorpayment page
+    how are we building it????????
+        layouts
+        routes
+        pages
+        components
+        
+
+        HOC
+        higher order components
+
+
+
+
+
+
